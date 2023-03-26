@@ -1,0 +1,45 @@
+* {
+  font-size: 40px;
+  font-family: fantasy;
+}
+body {
+  background-image: linear-gradient(to left, grey, purple);
+}
+h1 {
+  background-color: rgb(146, 69, 69);
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.p1 {
+  background-color: rgb(219, 162, 203);
+  text-align: left;
+  font-style: italic;
+  color: black;
+}
+.p2 {
+  background-color: rgb(177, 98, 156);
+  text-align: left;
+  font-style: italic;
+  color: black;
+}
+.p3 {
+  background-color: rgb(128, 213, 179);
+  text-align: left;
+  font-style: italic;
+  color: black;
+}
+.p4 {
+  background-color: rgb(196, 153, 120);
+  text-align: left;
+  font-style: italic;
+  color: black;
+}
+a[href] {
+  text-decoration: none;
+  color: crimson;
+}
+.p4:hover {
+  background-color: none;
+  color: gray;
+}
